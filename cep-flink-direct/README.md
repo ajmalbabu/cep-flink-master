@@ -1,7 +1,7 @@
 
 ## Showcases how to build compex event processing engine using flink api directly.
 
-###To run inside IDE, go and exedcute AnomalyMain.java
+###To run inside IDE, go and execute AnomalyMain.java
 
 ###To run by submitting to Flink:
 
