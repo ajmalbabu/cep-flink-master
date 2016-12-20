@@ -1,5 +1,9 @@
 
-Flink Start:
+## Showcases how to build compex event processing engine using flink, but created a thin layer around flink in the lib package and example uses that layer.
+
+###To run inside IDE, go and execute AnomalyMain.java
+
+###To run by submitting to Flink:
 
 cd C:\software\flink-1.1.3-bin-hadoop27-scala_2.11\flink-1.1.3
 
@@ -7,7 +11,7 @@ run => bin\start-local.bat
 
 Build sample job: 
 
-cd C:\software\workspace\flink-cep
+cd C:\software\workspace\flink-cep-with-framework
 mvn clean package
 
 Submit job: 
