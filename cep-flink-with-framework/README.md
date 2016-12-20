@@ -1,7 +1,7 @@
 
-## Showcases how to build compex event processing engine using flink, but created a thin layer around flink in the lib package and example uses that layer.
+## Showcases how to build compex event processing engine using flink, but created a thin layer around flink in the lib package and example inside cep.flight.anomaly package uses that layer from the cep.lib package.
 
-###To run inside IDE, go and execute AnomalyMain.java
+###To run inside IDE, go and execute cep.flight.anomaly.Main.java
 
 ###To run by submitting to Flink:
 
